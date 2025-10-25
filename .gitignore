@@ -1,0 +1,30 @@
+# Visual Studio cache and build folders
+.vs/
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.ldf
+*.mdf
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Publish output
+publish/
+*.Publish.xml
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build results
+*.dll
+*.exe
+*.pdb
